@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4030510d.css",
+    "main.js": "/static/js/main.94cc261a.js",
+    "static/js/453.419a5d54.chunk.js": "/static/js/453.419a5d54.chunk.js",
+    "static/media/profile.JPG": "/static/media/profile.c50acf2965a2af01e1f8.JPG",
+    "static/media/profile2.jpg": "/static/media/profile2.e03d70eb1f8005e2fd32.jpg",
+    "static/media/Nikhil_Chadha_SDE_Resume.pdf": "/static/media/Nikhil_Chadha_SDE_Resume.44b41c37cd4280a04316.pdf",
+    "static/media/Nikhil_Chadha_Data_Resume.pdf": "/static/media/Nikhil_Chadha_Data_Resume.bd6bcc4c8de6b3da71aa.pdf",
+    "static/media/Contact-Us.jpg": "/static/media/Contact-Us.4429ee059c410e32c7ff.jpg",
+    "index.html": "/index.html",
+    "main.4030510d.css.map": "/static/css/main.4030510d.css.map",
+    "main.94cc261a.js.map": "/static/js/main.94cc261a.js.map",
+    "453.419a5d54.chunk.js.map": "/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4030510d.css",
+    "static/js/main.94cc261a.js"
+  ]
+}
